@@ -103,6 +103,10 @@ PRODUCT_PACKAGES += \
     ThemeManagerService \
     WeatherManagerService
 
+# Required UselessRom packages
+PRODUCT_PACKAGES += \
+    Apollo
+
 # Optional CM packages
 PRODUCT_PACKAGES += \
     libemoji \
